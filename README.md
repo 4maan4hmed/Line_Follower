@@ -63,8 +63,4 @@ Upload the provided Arduino code to your Arduino board. The main functions of th
 
 Feel free to fork this repository and submit pull requests if you have improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ---
